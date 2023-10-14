@@ -1,0 +1,34 @@
+<html>
+<title>School Logika</title>
+<body style="background:silver;font-family:sans-serif;">
+ <header>
+     <h1><font color="yellow">ШКОЛА ПРОГРАМИРЫВАНИЯ И АНГЛИЙСКОГО</font></h1>
+     <a href="#A1">Програмирывание и английский:информация</a>
+     <img src="https://static.tildacdn.com/tild3537-6232-4732-a664-363662623537/Subtract.svg"width="500px" height="200px"/>
+ </header> 
+    <main>
+         <h4 id="A1">Школа Логика-это школа програмирывания и английского. Например на програмирывании мы можем научится такому:</h4>
+         <table style="border: 1px solid yellow;border-collapse:collapse;">
+             <tr style="border: 3px solid yellow">
+           <td style="border: 3px solid yellow"> Работать в scratch</td>
+           <td style="border: 3px solid yellow">Геймдизайн</td>
+           <td style="border: 3px solid yellow">Python (Start и Pro)</td>
+           <td style="border: 3px solid yellow">Создание Веб-сайтов</td>
+           <td style="border: 3px solid yellow">Графический Дизайн</td>
+             </tr> 
+         </table>
+         <p>Я учусь програмирыванию несколько лет, и мои навыки доросли до создания сайтов, а ведь это ещё не конец.</p>
+         <p><b>Tакже в школе логика мы можем изучать английский:</b></p>
+         <table style="border: 1px solid blue;border-collapse:collapse;">
+             <tr style="border: 3px solid blue">
+           <td style="border: 3px solid blue"> Учить новые слова</td>
+           <td style="border: 3px solid blue">Изучать граматику</td>
+           <td  style="border: 3px solid blue">Разговаривать про разные темы на английском</td>
+             </tr> 
+         </table>
+       <p>Програмирывание я учу дольше чем английски, но знания английского увеличились так, как будто я учу английский уже несколько лет.</p>
+       <p>Вот настоящий <a href="https://logikaschool.com/">сайт</a> школы Логика где вы можете узнать больше информации</p>
+       <footer><b>Сделал сайт: Великжанов Миша.Номер телефона 0993408057. Спасибо что зашли на мой сайт!</b></footer>
+       </main>
+</body>
+</html>
